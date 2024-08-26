@@ -8,7 +8,7 @@ s formatom JSON.
 
 <br> Ker se Slovenci radi hvalimo, kako dobri smo v športih me je zanimalo, ali je 
 temu res tako. Ali smo boljši od naših južnih sosedov Hrvatov in kje smo na
-svetovni lestvici športnikov. Poleg tega sem analiziral še ostale države in 
+svetovni lestvici športnikov? Poleg tega sem analiziral še ostale države in 
 podal svoje mnenje o zmagovalcu letošnjih olimpijskih iger. Preveril sem
 katere države imajo največ medalj (na prebivalca), največ atletov (na
 prebivalca) in kako uspešni so ti atleti pri dobivanju medalj, 
